@@ -9,4 +9,6 @@ I ensured site meets accessibility requirements with the following:
 * added alt text to images
 * consolidated css 
 
+[social solution services] (https://github.com/psurer/homework1/tree/master/Develop)
 
+![screen shot] (screen-shot.png)
