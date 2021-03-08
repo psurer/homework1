@@ -11,4 +11,4 @@ I ensured site meets accessibility requirements with the following:
 
 [social solution services] (https://github.com/psurer/homework1/tree/master/Develop)
 
-![screen shot] (screen-shot.png)
+![Screen shot!](./../screen-shot.png)
